@@ -46,6 +46,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BabluChahar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/BabluChahar/Leetcode/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
