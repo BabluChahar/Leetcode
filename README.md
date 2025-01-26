@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/BabluChahar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/BabluChahar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/BabluChahar/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BabluChahar/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
