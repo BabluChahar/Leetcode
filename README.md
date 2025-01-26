@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/BabluChahar/Leetcode/tree/master/0134-gas-station) |
+| [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/BabluChahar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
+| [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
+| [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
 | ------- |
