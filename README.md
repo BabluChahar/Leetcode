@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BabluChahar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/BabluChahar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/BabluChahar/Leetcode/tree/master/0812-rotate-string) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/BabluChahar/Leetcode/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
