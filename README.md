@@ -13,6 +13,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
