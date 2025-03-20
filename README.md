@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BabluChahar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
