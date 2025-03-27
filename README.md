@@ -131,4 +131,5 @@
 | [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/BabluChahar/Leetcode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
