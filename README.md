@@ -66,12 +66,14 @@
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BabluChahar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/BabluChahar/Leetcode/tree/master/0198-house-robber) |
+| [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
