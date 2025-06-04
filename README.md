@@ -74,6 +74,7 @@
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/BabluChahar/Leetcode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/BabluChahar/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
