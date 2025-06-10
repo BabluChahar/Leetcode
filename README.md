@@ -14,6 +14,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1031-add-to-array-form-of-integer](https://github.com/BabluChahar/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/BabluChahar/Leetcode/tree/master/1642-water-bottles) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
