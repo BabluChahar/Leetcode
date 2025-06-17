@@ -83,6 +83,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/BabluChahar/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/BabluChahar/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/BabluChahar/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BabluChahar/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/BabluChahar/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
