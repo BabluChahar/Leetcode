@@ -24,6 +24,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/BabluChahar/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/BabluChahar/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
