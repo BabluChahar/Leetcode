@@ -18,6 +18,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/BabluChahar/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BabluChahar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
