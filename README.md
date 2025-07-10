@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/BabluChahar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/BabluChahar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/BabluChahar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BabluChahar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BabluChahar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/BabluChahar/Leetcode/tree/master/0134-gas-station) |
@@ -182,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BabluChahar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
