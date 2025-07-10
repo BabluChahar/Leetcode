@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/BabluChahar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/BabluChahar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/BabluChahar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/BabluChahar/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BabluChahar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BabluChahar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,5 +242,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/BabluChahar/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
