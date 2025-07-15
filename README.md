@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/BabluChahar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/BabluChahar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BabluChahar/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/BabluChahar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/BabluChahar/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BabluChahar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BabluChahar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/BabluChahar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BabluChahar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/BabluChahar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BabluChahar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/BabluChahar/Leetcode/tree/master/0198-house-robber) |
