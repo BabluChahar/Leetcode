@@ -143,6 +143,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/BabluChahar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BabluChahar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BabluChahar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/BabluChahar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BabluChahar/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -262,4 +263,12 @@
 | ------- |
 | [0046-permutations](https://github.com/BabluChahar/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/BabluChahar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/BabluChahar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
