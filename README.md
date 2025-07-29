@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/BabluChahar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BabluChahar/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/BabluChahar/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/BabluChahar/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BabluChahar/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BabluChahar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/BabluChahar/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BabluChahar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/BabluChahar/Leetcode/tree/master/0319-bulb-switcher) |
