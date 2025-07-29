@@ -35,6 +35,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/BabluChahar/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BabluChahar/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/BabluChahar/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -211,6 +212,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/BabluChahar/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BabluChahar/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
