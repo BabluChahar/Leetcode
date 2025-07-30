@@ -83,6 +83,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2825-minimize-string-length](https://github.com/BabluChahar/Leetcode/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -103,6 +104,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BabluChahar/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2825-minimize-string-length](https://github.com/BabluChahar/Leetcode/tree/master/2825-minimize-string-length) |
 ## Two Pointers
 |  |
 | ------- |
