@@ -100,6 +100,7 @@
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/BabluChahar/Leetcode/tree/master/0812-rotate-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BabluChahar/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -158,6 +159,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/BabluChahar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/BabluChahar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BabluChahar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BabluChahar/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
