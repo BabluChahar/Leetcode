@@ -81,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -99,6 +100,7 @@
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/BabluChahar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/BabluChahar/Leetcode/tree/master/0812-rotate-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
