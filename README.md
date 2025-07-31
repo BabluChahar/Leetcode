@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BabluChahar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/BabluChahar/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/BabluChahar/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/BabluChahar/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BabluChahar/Leetcode/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/BabluChahar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BabluChahar/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BabluChahar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/BabluChahar/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/BabluChahar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/BabluChahar/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -141,6 +143,7 @@
 | [0062-unique-paths](https://github.com/BabluChahar/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BabluChahar/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BabluChahar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/BabluChahar/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/BabluChahar/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
