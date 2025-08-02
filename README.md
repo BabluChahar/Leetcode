@@ -43,6 +43,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/BabluChahar/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2486-most-frequent-even-element](https://github.com/BabluChahar/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BabluChahar/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -90,6 +91,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2486-most-frequent-even-element](https://github.com/BabluChahar/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2825-minimize-string-length](https://github.com/BabluChahar/Leetcode/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -283,6 +285,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/BabluChahar/Leetcode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/BabluChahar/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BabluChahar/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BabluChahar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
