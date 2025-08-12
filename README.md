@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/BabluChahar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BabluChahar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/BabluChahar/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/BabluChahar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BabluChahar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BabluChahar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/BabluChahar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -135,6 +137,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BabluChahar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/BabluChahar/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/BabluChahar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/BabluChahar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/BabluChahar/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -249,6 +252,7 @@
 | [0078-subsets](https://github.com/BabluChahar/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/BabluChahar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/BabluChahar/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/BabluChahar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/BabluChahar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/BabluChahar/Leetcode/tree/master/0461-hamming-distance) |
