@@ -118,6 +118,7 @@
 | [0812-rotate-string](https://github.com/BabluChahar/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/BabluChahar/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BabluChahar/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/BabluChahar/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BabluChahar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/BabluChahar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
