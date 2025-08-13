@@ -122,6 +122,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/BabluChahar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/BabluChahar/Leetcode/tree/master/2825-minimize-string-length) |
+| [3379-score-of-a-string](https://github.com/BabluChahar/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
