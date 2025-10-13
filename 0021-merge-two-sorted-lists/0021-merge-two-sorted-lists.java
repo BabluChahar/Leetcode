@@ -16,16 +16,14 @@ class Solution {
             if(list1.val<=list2.val){
                 ans.next=list1;
                 list1=list1.next;
-            } 
-            else{
+            }else{
                 ans.next=list2;
                 list2=list2.next;
             }
             ans=ans.next;
-        }
-        if(list1!=null) ans.next=list1;
-        if(list2!=null) ans.next=list2;
-
-        return res.next;
+        } 
+if(list1!=null) ans.next=list1;
+if(list2!=null)ans.next=list2;
+return res.next;
     }
 }
