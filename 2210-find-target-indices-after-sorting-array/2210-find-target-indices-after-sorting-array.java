@@ -2,10 +2,11 @@ class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
         int tcount=0;
         int n=0;
-        for(int ele:nums){
-            if(ele==target){
+        for(int el:nums){
+            if(el==target){
                 tcount++;
-            } else if(ele<target){
+            }
+            else if(el<target){
                 n++;
             }
         }
@@ -14,7 +15,6 @@ class Solution {
             ans.add(n);
             n++;
             tcount--;
-
         }
         return ans;
     }
