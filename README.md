@@ -47,6 +47,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BabluChahar/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BabluChahar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/BabluChahar/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BabluChahar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/BabluChahar/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BabluChahar/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -62,6 +63,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BabluChahar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BabluChahar/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -253,6 +255,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BabluChahar/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BabluChahar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
