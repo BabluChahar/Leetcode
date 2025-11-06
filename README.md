@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/BabluChahar/Leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/BabluChahar/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0907-koko-eating-bananas](https://github.com/BabluChahar/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/BabluChahar/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/BabluChahar/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/BabluChahar/Leetcode/tree/master/1127-last-stone-weight) |
@@ -82,6 +83,7 @@
 | [0134-gas-station](https://github.com/BabluChahar/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/BabluChahar/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/BabluChahar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0917-boats-to-save-people](https://github.com/BabluChahar/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/BabluChahar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BabluChahar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -151,6 +153,7 @@
 | [0287-find-the-duplicate-number](https://github.com/BabluChahar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/BabluChahar/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/BabluChahar/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/BabluChahar/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -254,6 +257,7 @@
 | [0242-valid-anagram](https://github.com/BabluChahar/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/BabluChahar/Leetcode/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/BabluChahar/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/BabluChahar/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/BabluChahar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BabluChahar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/BabluChahar/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
